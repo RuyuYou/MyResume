@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.header {
+    background-color: mediumspringgreen;
+    height: 150px;
+}
+
+h2 {
+    padding-top: 50px;
+}
+
+.col-lg-offset-3 {
+    margin-left: 25%;
+}
